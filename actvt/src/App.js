@@ -47,7 +47,7 @@ const removeAll=()=>{
   return (
     <>
    
-
+    <h1>fullstack</h1>
     <h2 className='text-center mt-5'>MAKE YOUR TODO LIST</h2>
     <input id="input" type="text" placeholder="make ur todo's..." value={activity} onChange={dyna} />
     <button id="bt1" className='btn btn-primary ms-3' onClick={mapdata}>Add</button>
