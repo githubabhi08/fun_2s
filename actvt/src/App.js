@@ -47,7 +47,7 @@ const removeAll=()=>{
   return (
     <>
    
-    <h1>Its-me</h1>
+    <h1>{tym}</h1>
 
     <h2 className='text-center mt-5'>MAKE YOUR TODO LIST</h2>
     <input id="input" type="text" placeholder="make ur todo's..." value={activity} onChange={dyna} />
