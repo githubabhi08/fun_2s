@@ -46,7 +46,7 @@ const removeAll=()=>{
 
   return (
     <>
-   
+   <h1>Im just playing ...</h1>
     <h1>{tym}</h1>
 
     <h2 className='text-center mt-5'>MAKE YOUR TODO LIST</h2>
